@@ -1,7 +1,7 @@
 import React from 'react'
 import './Home.scss'
 import MeetOurPartners from '../mop/MeetOurPartners'
-import NewsLetter from '../newsletter/newsletter'
+import NewsLetter from '../newsletter/Newsletter'
 import Carousell from '../Carousell'
 import Whateweoffer from '../Whateweoffer'
 
